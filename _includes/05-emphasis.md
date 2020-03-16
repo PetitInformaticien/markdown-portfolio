@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am an **amazing** programmer,
+even though I'm *still learning*, I will **improve** slowly as I work
+on *more* projects
