@@ -1,5 +1,5 @@
 - I love reading Books
 - I love playing games from time to time
-- My favorite books are :
+- My favorite books are : 
     - Think and Grow Rich
     - How to win friends and influence people
